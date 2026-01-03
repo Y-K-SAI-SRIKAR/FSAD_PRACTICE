@@ -67,3 +67,9 @@
 0:00:24 Tab1 StartNav6 #typed
 0:00:24 Tab1 FinishNav6
 0:00:24 Tab1 PageLoad
+0:05:23 Tab1 StartNav7 #typed
+0:05:23 Tab1 FinishNav7
+0:05:23 Tab1 PageLoad
+0:05:24 Tab1 StartNav8 #typed
+0:05:24 Tab1 FinishNav8
+0:05:24 Tab1 PageLoad
